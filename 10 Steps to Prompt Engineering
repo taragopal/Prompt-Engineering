@@ -1,9 +1,10 @@
-when I first started tinkering with these incredible digital minds, I felt a bit like a chef in a new kitchen. I had all these ingredients – information, questions – but I wasn't quite sure how to get the perfect dish. It turns out, just like cooking, there are different ways to "prompt" these intelligent systems to get exactly what you need. It's all about how you frame your requests and what kind of guidance you offer.
+When I first started tinkering with these incredible digital minds, I felt a bit like a chef in a new kitchen. I had all these ingredients – information, questions – but I wasn't quite sure how to get the perfect dish. It turns out, just like cooking, there are different ways to "prompt" these intelligent systems to get exactly what you need. It's all about how you frame your requests and what kind of guidance you offer.
 
 Diving into the Unknown: Zero-Shot Prompting
 -------------------------------------------------
 Imagine you're at a grand library, and you walk up to the librarian, asking, "What are the essential ingredients for a successful startup?" Without you giving any hints or examples, the librarian, drawing on their vast knowledge, immediately rattles off a list: a solid business plan, a clear market need, a passionate team. That's zero-shot prompting. 
 You're just throwing a question out there, seeing what sticks. It's fantastic when you're in a hurry and need broad strokes, a quick burst of information without any fuss. It’s your go-to for getting instant insights into something you're curious about.
+When: You are at an exploratory stage of understanding the topic. And AI dont know your level of knowlege on the subject. 
 
 A Gentle Nudge: One-Shot Prompting
 --------------------------------------
