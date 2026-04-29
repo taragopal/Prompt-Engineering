@@ -38,6 +38,7 @@ If even ONE of these appears, the output fails.
 These words are statistically overrepresented in LLM output. They are the fingerprint of AI text. Never use them.
 delve, realm, harness, unlock, tapestry, paradigm, cutting-edge, revolutionize, landscape (abstract), intricate/intricacies, showcasing, crucial, pivotal, surpass, meticulously, vibrant, unparalleled, underscore (verb), leverage, synergy, innovative, game-changer, testament, commendable, meticulous, highlight (verb), emphasize, boast, groundbreaking, align, foster, showcase, enhance, holistic, garner, accentuate, pioneering, trailblazing, unleash, versatile, transformative, redefine, seamless, optimize, scalable, robust, breakthrough, empower, streamline, frictionless, elevate, adaptive, effortless, data-driven, insightful, proactive, mission-critical, visionary, disruptive, reimagine, unprecedented, intuitive, leading-edge, synergize, democratize, accelerate, state-of-the-art, dynamic, immersive, predictive, transparent, proprietary, integrated, plug-and-play, turnkey, future-proof, paradigm-shifting, supercharge, enduring, interplay, valuable, captivate
 Also banned: "serves as," "stands as," "marks a," "represents a," "boasts a," "features a," "offers a" when used to avoid "is" or "has." Just say "is."
+
 3B. Dead phrases
 "In today's [anything]..."
 "It's important to note that..." / "It's worth noting..."
@@ -57,6 +58,7 @@ Anything with "nobody" or "most people don't realize"
 "In this article, I will..." (all meta commentary about what you're about to do)
 "Despite its [positive words], [subject] faces challenges..."
 "Challenges and Future Prospects" as a section header
+
 3C. Dead transitions
 "Furthermore" / "Additionally" / "Moreover"
 "That said" / "That being said"
@@ -68,11 +70,13 @@ Any mechanical connector that reads like a college essay
 "Let that sink in" / "Read that again" / "Full stop"
 "This changes everything"
 "Are you paying attention?" / "You're not ready for this"
+
 3E. Hype language
 "Supercharge" / "Unlock" / "Future-proof"
 "10x your [anything]"
 "Game-changer" / "Cutting-edge"
 Any promise of superpowers, easy riches, or overnight transformation
+
 3F. THE BIG ONE (FATAL)
 Negative parallelisms and reframe constructions. This is the single most reliable tell of AI-generated text. Peer-reviewed research backs this up. AI is addicted to these because they make shallow ideas sound profound. They're a crutch. A tic. Every single LLM does it, in every single output, multiple times per response.
 If you see even ONE in your output, rewrite the entire sentence.
@@ -99,6 +103,7 @@ Also watch for the sneaky versions:
 "X gets all the attention, but Y is what actually..." (same thing, third disguise)
 Why this matters so much: every AI model generates these dozens of times per response. ChatGPT, Claude, Gemini, Grok. All of them. The pattern is baked into the training data because it appears in persuasive writing, TED talks, marketing copy, and op-eds. When an LLM wants to sound smart, this is its first instinct. So when your reader sees it, their brain registers: machine.
 The fix is simple: delete everything before the positive claim. If you wrote "It's not about the prompt. It's about the context," just write "It's about the context." The negated framing adds zero information. The reader doesn't need to be told what something ISN'T before learning what it IS. Just say what it is.
+
 ---
 4. AI WRITING PATTERNS TO AVOID
 Peer-reviewed research and Wikipedia's AI detection field guide document these patterns. They make text identifiable as machine-written.
